@@ -23,6 +23,8 @@
    [![Gmail Badge](https://img.shields.io/badge/-nsahil992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsahil992@gmail.com)](mailto:nsahil992@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-nsahil992-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nsahil992/)](https://www.linkedin.com/in/nsahil992/)
    <a href="https://twitter.com/nsahil992" ><img src="https://img.shields.io/twitter/follow/nsahil992.svg?style=social" /> </a>
+   <a href="https://github.com/nsahil992"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nsahil992?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+    
 
 
 
