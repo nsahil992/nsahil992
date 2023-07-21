@@ -1,19 +1,21 @@
 # Hi there, I'm Sahil!👋
 
-![capa github](capa_github.png)
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsahil992&hide=html,TeX,Jupyter%20Notebook&layout=compact&theme=merko" /></td>
-        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=nsahil992&theme=merko"/></td>
-    </tr>
-  </table>
-</center>
-
 ### Currently, I am fooling around with Gopher - **The Go Mascot**
 
 ![Gopher](https://slackmojis.com/emojis/291-golang/download)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=algolia&include_all_commits=true&count_private=true" />
+</p>
+
+### 🤝🏼 Connect with me
+[![Gmail Badge](https://img.shields.io/badge/-nsahil992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsahil992@gmail.com)](mailto:nsahil992@gmail.com)
+
+
 
 
 
