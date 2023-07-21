@@ -1,11 +1,17 @@
-<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hi there, I'm Sahil</h2>
+# Hi there, I'm Sahil👋🏻
 
-#### Currently, I am fooling around with Gopher - **The Go Mascot**
+### Currently, I am fooling around with:
 
+![Julia](https://slackmojis.com/emojis/14408-julialang/download)
 ![Gopher](https://slackmojis.com/emojis/291-golang/download)
-
-
-### ⚙️ &nbsp;GitHub Analytics
+![Java](https://slackmojis.com/emojis/232-java/download)
+![Docker](https://slackmojis.com/emojis/397-docker/download)
+![Kubernetes](https://slackmojis.com/emojis/1491-kubernetes/download)
+![ArgoCd](https://slackmojis.com/emojis/38059-argo/download)
+![Git](https://slackmojis.com/emojis/341-git/download)
+![Github](https://slackmojis.com/emojis/58276-github/download)
+                                
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 	
@@ -13,7 +19,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
 
-### 🤝🏼 Connect with me
+## 🤝🏼 Connect with me
    [![Gmail Badge](https://img.shields.io/badge/-nsahil992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsahil992@gmail.com)](mailto:nsahil992@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/-nsahil992-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nsahil992/)](https://www.linkedin.com/in/nsahil992/)
    <a href="https://twitter.com/nsahil992" ><img src="https://img.shields.io/twitter/follow/nsahil992.svg?style=social" /> </a>
