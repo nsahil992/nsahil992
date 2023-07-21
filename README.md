@@ -1,5 +1,11 @@
 ## Hello Everyone, I am Sahil 👋
 
+### Currently, I am fooling around with Gopher - **Go Mascot**
+
+![Gopher](https://slackmojis.com/emojis/291-golang/download)
+
+
+
 <!--
 **nsahil992/nsahil992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
