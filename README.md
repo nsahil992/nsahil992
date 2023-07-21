@@ -1,6 +1,6 @@
 ## Hello Everyone, I am Sahil 👋
 
-### Currently, I am fooling around with Gopher - **Go Mascot**
+### Currently, I am fooling around with Gopher - **The Go Mascot**
 
 ![Gopher](https://slackmojis.com/emojis/291-golang/download)
 
