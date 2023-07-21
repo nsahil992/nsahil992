@@ -1,6 +1,5 @@
 # Hi there, I'm Sahil👋🏻
 
-<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/>
 ### → Currently, I am fooling around with:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
