@@ -1,8 +1,12 @@
-## Hello Everyone, I am Sahil 👋
+# Hi there, I'm Sahil!👋
 
 ### Currently, I am fooling around with Gopher - **The Go Mascot**
 
 ![Gopher](https://slackmojis.com/emojis/291-golang/download)
+
+![Sahils's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsahil992&layout=compact)
 
 
 
