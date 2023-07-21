@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil👋🏻
 
-### Currently, I am fooling around with:
+### → Currently, I am fooling around with:
 
 ![Julia](https://slackmojis.com/emojis/14408-julialang/download)
 ![Gopher](https://slackmojis.com/emojis/291-golang/download)
