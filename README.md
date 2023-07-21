@@ -1,15 +1,15 @@
 # Hi there, I'm Sahil👋🏻
 
 ### → Currently, I am fooling around with:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
-![Julia](https://slackmojis.com/emojis/14408-julialang/download)
-![Gopher](https://slackmojis.com/emojis/291-golang/download)
-![Java](https://slackmojis.com/emojis/232-java/download)
-![Docker](https://slackmojis.com/emojis/397-docker/download)
-![Kubernetes](https://slackmojis.com/emojis/1491-kubernetes/download)
-![ArgoCd](https://slackmojis.com/emojis/38059-argo/download)
-![Git](https://slackmojis.com/emojis/341-git/download)
-![Github](https://slackmojis.com/emojis/58276-github/download)
                                 
 ## ⚙️ &nbsp;GitHub Analytics
 
