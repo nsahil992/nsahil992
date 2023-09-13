@@ -15,14 +15,33 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) 
 
 
-                                
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&theme=black-ice&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=black-ice&include_all_commits=true&count_private=true" />
+    <a href="https://github.com/nsahil992/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Naik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+
+
+
+## 📊 GitHub Stats
+ <br/>
+    <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Sahl Naik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsahil992&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Kanika637/github-readme-activity-graph"><img alt="Sahil Naik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nsahil992&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
 ## 🤝🏼 Connect with me
    [![Gmail Badge](https://img.shields.io/badge/-nsahil992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsahil992@gmail.com)](mailto:nsahil992@gmail.com)
@@ -33,9 +52,11 @@
 ![](https://komarev.com/ghpvc/?username=nsahil992&color=blueviolet)
     
 
-
-
-
+<p align="center">
+    <a href="https://github.com/nsahil992/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Naik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 
