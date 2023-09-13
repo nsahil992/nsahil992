@@ -20,8 +20,8 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&theme=black-ice&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=black-ice&include_all_commits=true&count_private=true" />
 </p>
 
 ## 🤝🏼 Connect with me
