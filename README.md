@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Stats
  <br/>
-    <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Sahl Naik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsahil992&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Sahil Naik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsahil992&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nsahil992/github-readme-stats"><img alt="Sahil Naik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsahil992&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Kanika637/github-readme-activity-graph"><img alt="Sahil Naik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nsahil992&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nsahil992/github-readme-activity-graph"><img alt="Sahil Naik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nsahil992&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
