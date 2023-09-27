@@ -42,6 +42,8 @@
 <br/>
 <br/>
 
+## My Holopin 🤩
+[![An image of @nsahil992's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nsahil992)](https://holopin.io/@nsahil992)
 
 ## 🤝🏼 Connect with me
    [![Gmail Badge](https://img.shields.io/badge/-nsahil992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsahil992@gmail.com)](mailto:nsahil992@gmail.com)
@@ -51,7 +53,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nsahil992&color=blueviolet)
     
-
 
 
 
