@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-## My Holopin 🤩
+## 🥳 Hacktoberfest
 [![An image of @nsahil992's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nsahil992)](https://holopin.io/@nsahil992)
 
 ## 🤝🏼 Connect with me
