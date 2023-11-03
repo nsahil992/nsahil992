@@ -1,8 +1,8 @@
 # Hi there, I'm Sahil!👋🏻
 
-### → Currently, I am fooling around with:
-<img alt="Courage" src="courage.gif" align="right" width = "300" height = "165"/>
+### Currently, I am fooling around with:
 
+<img alt="Courage" src="courage.gif" align="right" width = "300" height = "150"/>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
