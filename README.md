@@ -18,11 +18,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-    <a href="https://github.com/nsahil992/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Naik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nsahil992&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nsahil992&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/nsahil992/github-readme-activity-graph)
+
 
 
 
