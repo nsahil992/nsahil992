@@ -19,7 +19,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nsahil992&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/nsahil992/github-readme-activity-graph)
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nsahil992&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/nsahil992/github-readme-activity-graph)
 
 
 
